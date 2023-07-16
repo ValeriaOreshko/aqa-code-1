@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u0syw22cj0rara18?svg=true)](https://ci.appveyor.com/project/ValeriaOreshko/aqa-code-1)
+
+
 # aqa-code
 Код с лекций Автоматизация тестирования
 
